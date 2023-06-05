@@ -1,6 +1,6 @@
 # Motivation
 
-The primary cause of poor performance of students during the learning process is confusion. To make online education more effective, it is important to detect confusion in real-time. While Massive Open Online Courses (MOOCs) cater to a large number of students simultaneously, they have certain drawbacks in comparison to traditional in-class education. Currently, attempts are being made to enhance communication between instructors and students through interactive tools. Pervious work [2] has shown the effectivness of applying bidirectional LSTM on this dataset. I expermint with variations of LSTM as reported in [3] to improve on the current state of the art.
+The primary cause of poor performance of students during the learning process is confusion. To make online education more effective, it is important to detect confusion in real-time. While Massive Open Online Courses (MOOCs) cater to a large number of students simultaneously, they have certain drawbacks in comparison to traditional in-class education. Currently, attempts are being made to enhance communication between instructors and students through interactive tools. Pervious works has shown the effectivness of applying bidirectional LSTM on this dataset. I expermint with variations of LSTM as reported in recent works to improve on the current state of the art.
 
 # Dataset Information
 
